@@ -1,0 +1,3235 @@
+{
+  "materials": [
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "212"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Aluminium"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "BaseMtl"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Black"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "image",
+        "filename": "Textures/QUARTERSAWN WENGE.jpg.exr"
+      },
+      "roughness": 0.7400000095367432,
+      "anisotropic": 0.8899999856948853,
+      "IOR": 1.4500000476837158,
+      "metallic": 1.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Brushed_Stainless_Steel.001"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Dots Stroke"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          0.800000011920929,
+          0.6600000262260437,
+          0.4099999964237213
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 1.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Lampshade_material.001"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          0.5,
+          0.43799999356269836,
+          0.2800000011920929
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          1000.0,
+          1000.0,
+          1000.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "LightLeft.001"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.001"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          0.027000000700354576,
+          0.024000000208616257,
+          0.02199999988079071
+        ]
+      },
+      "roughness": 0.10000000149011612,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 1.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.003"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.016"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.017"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.020"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.021"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.023"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.024"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.025"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.026"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.027"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.028"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.029"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.030"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.033"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.034"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.035"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.036"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.040"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          0.027209900319576263,
+          0.024197416380047798,
+          0.022403772920370102
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.041"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.047"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.048"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material.049"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Material_#13"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "None"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Supergloss_Jet_Black"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "White_Plastic.001"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "emissionIsGlossy": false,
+      "emissionExponent": 20.0,
+      "name": "Wood.001"
+    }
+  ],
+  "transforms": [
+    {
+      "name": "camera",
+      "position": [
+        -16.444623947143555,
+        1.7047975063323975,
+        -0.4056922495365143
+      ],
+      "rotation": [
+        3.9629738835679404,
+        268.6960784107877,
+        -0.0011586622392680715
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "cameras": [
+    {
+      "fov": 19.47537093397606,
+      "transform": "camera",
+      "name": "default",
+      "type": "perspective"
+    }
+  ],
+  "objects": [
+    {
+      "name": "Base_plate.002_Cylinder.011",
+      "type": "ply",
+      "material": "Material.017",
+      "relativePath": "Meshes/Base_plate.002_Cylinder.011.0.ply"
+    },
+    {
+      "name": "Box007",
+      "type": "ply",
+      "material": "212",
+      "relativePath": "Meshes/Box007.0.ply"
+    },
+    {
+      "name": "Box1578963292_Mesh.600",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Box1578963292_Mesh.600.0.ply"
+    },
+    {
+      "name": "Box1578963293_Mesh.590",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Box1578963293_Mesh.590.0.ply"
+    },
+    {
+      "name": "Box1578963294_Mesh.642",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Box1578963294_Mesh.642.0.ply"
+    },
+    {
+      "name": "Box1578963295_Mesh.632",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Box1578963295_Mesh.632.0.ply"
+    },
+    {
+      "name": "Box1578963296_Mesh.558",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Box1578963296_Mesh.558.0.ply"
+    },
+    {
+      "name": "Box1578963297_Mesh.548",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Box1578963297_Mesh.548.0.ply"
+    },
+    {
+      "name": "Box1578963298_Mesh.506",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Box1578963298_Mesh.506.0.ply"
+    },
+    {
+      "name": "Box1578963299_Mesh.527",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Box1578963299_Mesh.527.0.ply"
+    },
+    {
+      "name": "Circle.001_Circle.009",
+      "type": "ply",
+      "material": "Material.023",
+      "relativePath": "Meshes/Circle.001_Circle.009.0.ply"
+    },
+    {
+      "name": "Circle.001_Circle.009",
+      "type": "ply",
+      "material": "Material.024",
+      "relativePath": "Meshes/Circle.001_Circle.009.1.ply"
+    },
+    {
+      "name": "Circle.002_Circle.010",
+      "type": "ply",
+      "material": "Material.021",
+      "relativePath": "Meshes/Circle.002_Circle.010.0.ply"
+    },
+    {
+      "name": "Circle.003_Circle.004",
+      "type": "ply",
+      "material": "Material.021",
+      "relativePath": "Meshes/Circle.003_Circle.004.0.ply"
+    },
+    {
+      "name": "Circle.006_Circle.013",
+      "type": "ply",
+      "material": "Material.023",
+      "relativePath": "Meshes/Circle.006_Circle.013.0.ply"
+    },
+    {
+      "name": "Circle.006_Circle.013",
+      "type": "ply",
+      "material": "Material.016",
+      "relativePath": "Meshes/Circle.006_Circle.013.1.ply"
+    },
+    {
+      "name": "Circle.008_Circle.014",
+      "type": "ply",
+      "material": "Material.021",
+      "relativePath": "Meshes/Circle.008_Circle.014.0.ply"
+    },
+    {
+      "name": "Circle.011_Circle.017",
+      "type": "ply",
+      "material": "Material.023",
+      "relativePath": "Meshes/Circle.011_Circle.017.0.ply"
+    },
+    {
+      "name": "Circle.011_Circle.017",
+      "type": "ply",
+      "material": "Material.024",
+      "relativePath": "Meshes/Circle.011_Circle.017.1.ply"
+    },
+    {
+      "name": "Circle.012_Circle.027",
+      "type": "ply",
+      "material": "Material.021",
+      "relativePath": "Meshes/Circle.012_Circle.027.0.ply"
+    },
+    {
+      "name": "Circle201_Mesh.603",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Circle201_Mesh.603.0.ply"
+    },
+    {
+      "name": "Circle202_Mesh.586",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Circle202_Mesh.586.0.ply"
+    },
+    {
+      "name": "Circle203_Mesh.645",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Circle203_Mesh.645.0.ply"
+    },
+    {
+      "name": "Circle204_Mesh.628",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Circle204_Mesh.628.0.ply"
+    },
+    {
+      "name": "Circle205_Mesh.561",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Circle205_Mesh.561.0.ply"
+    },
+    {
+      "name": "Circle206_Mesh.544",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Circle206_Mesh.544.0.ply"
+    },
+    {
+      "name": "Circle207_Mesh.502",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Circle207_Mesh.502.0.ply"
+    },
+    {
+      "name": "Circle208_Mesh.518",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Circle208_Mesh.518.0.ply"
+    },
+    {
+      "name": "Circle_Circle.001",
+      "type": "ply",
+      "material": "Material.023",
+      "relativePath": "Meshes/Circle_Circle.001.0.ply"
+    },
+    {
+      "name": "Circle_Circle.001",
+      "type": "ply",
+      "material": "Material.016",
+      "relativePath": "Meshes/Circle_Circle.001.1.ply"
+    },
+    {
+      "name": "Collapse_Lam_Mod_143_Mesh.607",
+      "type": "ply",
+      "material": "Material_#13",
+      "relativePath": "Meshes/Collapse_Lam_Mod_143_Mesh.607.0.ply"
+    },
+    {
+      "name": "Collapse_Lam_Mod_144_Mesh.582",
+      "type": "ply",
+      "material": "Material_#13",
+      "relativePath": "Meshes/Collapse_Lam_Mod_144_Mesh.582.0.ply"
+    },
+    {
+      "name": "Collapse_Lam_Mod_145_Mesh.649",
+      "type": "ply",
+      "material": "Material_#13",
+      "relativePath": "Meshes/Collapse_Lam_Mod_145_Mesh.649.0.ply"
+    },
+    {
+      "name": "Collapse_Lam_Mod_146_Mesh.624",
+      "type": "ply",
+      "material": "Material_#13",
+      "relativePath": "Meshes/Collapse_Lam_Mod_146_Mesh.624.0.ply"
+    },
+    {
+      "name": "Collapse_Lam_Mod_147_Mesh.565",
+      "type": "ply",
+      "material": "Material_#13",
+      "relativePath": "Meshes/Collapse_Lam_Mod_147_Mesh.565.0.ply"
+    },
+    {
+      "name": "Collapse_Lam_Mod_148_Mesh.540",
+      "type": "ply",
+      "material": "Material_#13",
+      "relativePath": "Meshes/Collapse_Lam_Mod_148_Mesh.540.0.ply"
+    },
+    {
+      "name": "Collapse_Lam_Mod_149_Mesh.499",
+      "type": "ply",
+      "material": "Material_#13",
+      "relativePath": "Meshes/Collapse_Lam_Mod_149_Mesh.499.0.ply"
+    },
+    {
+      "name": "Collapse_Lam_Mod_150_Mesh.522",
+      "type": "ply",
+      "material": "Material_#13",
+      "relativePath": "Meshes/Collapse_Lam_Mod_150_Mesh.522.0.ply"
+    },
+    {
+      "name": "Cube",
+      "type": "ply",
+      "material": "Material.041",
+      "relativePath": "Meshes/Cube.0.ply"
+    },
+    {
+      "name": "Cube.004_Cube.014",
+      "type": "ply",
+      "material": "Material.023",
+      "relativePath": "Meshes/Cube.004_Cube.014.0.ply"
+    },
+    {
+      "name": "Cube.005_Cube.011",
+      "type": "ply",
+      "material": "Material.020",
+      "relativePath": "Meshes/Cube.005_Cube.011.0.ply"
+    },
+    {
+      "name": "Cube.008_Cube.013",
+      "type": "ply",
+      "material": "Material.023",
+      "relativePath": "Meshes/Cube.008_Cube.013.0.ply"
+    },
+    {
+      "name": "Cube.009_Cube.015",
+      "type": "ply",
+      "material": "Material.020",
+      "relativePath": "Meshes/Cube.009_Cube.015.0.ply"
+    },
+    {
+      "name": "Cube.010_Cube.019",
+      "type": "ply",
+      "material": "Material.023",
+      "relativePath": "Meshes/Cube.010_Cube.019.0.ply"
+    },
+    {
+      "name": "Cube.011_Cube.020",
+      "type": "ply",
+      "material": "Material.020",
+      "relativePath": "Meshes/Cube.011_Cube.020.0.ply"
+    },
+    {
+      "name": "Cube.012_Cube.021",
+      "type": "ply",
+      "material": "Material.023",
+      "relativePath": "Meshes/Cube.012_Cube.021.0.ply"
+    },
+    {
+      "name": "Cube.013_Cube.022",
+      "type": "ply",
+      "material": "Material.020",
+      "relativePath": "Meshes/Cube.013_Cube.022.0.ply"
+    },
+    {
+      "name": "Cube.020_Cube.029",
+      "type": "ply",
+      "material": "Material.040",
+      "relativePath": "Meshes/Cube.020_Cube.029.0.ply"
+    },
+    {
+      "name": "Cube.021_Cube.008",
+      "type": "ply",
+      "material": "Material.001",
+      "relativePath": "Meshes/Cube.021_Cube.008.0.ply"
+    },
+    {
+      "name": "Cylinder",
+      "type": "ply",
+      "material": "Material.036",
+      "relativePath": "Meshes/Cylinder.0.ply"
+    },
+    {
+      "name": "Cylinder.001",
+      "type": "ply",
+      "material": "Material.036",
+      "relativePath": "Meshes/Cylinder.001.0.ply"
+    },
+    {
+      "name": "Cylinder.002",
+      "type": "ply",
+      "material": "Material.036",
+      "relativePath": "Meshes/Cylinder.002.0.ply"
+    },
+    {
+      "name": "Cylinder.006",
+      "type": "ply",
+      "material": "Material.036",
+      "relativePath": "Meshes/Cylinder.006.0.ply"
+    },
+    {
+      "name": "Cylinder.011_Cylinder.013",
+      "type": "ply",
+      "material": "Material.036",
+      "relativePath": "Meshes/Cylinder.011_Cylinder.013.0.ply"
+    },
+    {
+      "name": "Cylinder.012_Cylinder.014",
+      "type": "ply",
+      "material": "Material.036",
+      "relativePath": "Meshes/Cylinder.012_Cylinder.014.0.ply"
+    },
+    {
+      "name": "Cylinder006",
+      "type": "ply",
+      "material": "Material.025",
+      "relativePath": "Meshes/Cylinder006.0.ply"
+    },
+    {
+      "name": "Cylinder007",
+      "type": "ply",
+      "material": "Material.025",
+      "relativePath": "Meshes/Cylinder007.0.ply"
+    },
+    {
+      "name": "Cylinder1433_Mesh.604",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Cylinder1433_Mesh.604.0.ply"
+    },
+    {
+      "name": "Cylinder1434_Mesh.605",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Cylinder1434_Mesh.605.0.ply"
+    },
+    {
+      "name": "Cylinder1435_Mesh.610",
+      "type": "ply",
+      "material": "Black",
+      "relativePath": "Meshes/Cylinder1435_Mesh.610.0.ply"
+    },
+    {
+      "name": "Cylinder1436_Mesh.614",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Cylinder1436_Mesh.614.0.ply"
+    },
+    {
+      "name": "Cylinder1437_Mesh.619",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Cylinder1437_Mesh.619.0.ply"
+    },
+    {
+      "name": "Cylinder1438_Mesh.579",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Cylinder1438_Mesh.579.0.ply"
+    },
+    {
+      "name": "Cylinder1439_Mesh.580",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Cylinder1439_Mesh.580.0.ply"
+    },
+    {
+      "name": "Cylinder1440_Mesh.588",
+      "type": "ply",
+      "material": "Black",
+      "relativePath": "Meshes/Cylinder1440_Mesh.588.0.ply"
+    },
+    {
+      "name": "Cylinder1441_Mesh.593",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Cylinder1441_Mesh.593.0.ply"
+    },
+    {
+      "name": "Cylinder1442_Mesh.598",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Cylinder1442_Mesh.598.0.ply"
+    },
+    {
+      "name": "Cylinder1443_Mesh.646",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Cylinder1443_Mesh.646.0.ply"
+    },
+    {
+      "name": "Cylinder1444_Mesh.647",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Cylinder1444_Mesh.647.0.ply"
+    },
+    {
+      "name": "Cylinder1445_Mesh.652",
+      "type": "ply",
+      "material": "Black",
+      "relativePath": "Meshes/Cylinder1445_Mesh.652.0.ply"
+    },
+    {
+      "name": "Cylinder1446_Mesh.656",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Cylinder1446_Mesh.656.0.ply"
+    },
+    {
+      "name": "Cylinder1447_Mesh.661",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Cylinder1447_Mesh.661.0.ply"
+    },
+    {
+      "name": "Cylinder1448_Mesh.621",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Cylinder1448_Mesh.621.0.ply"
+    },
+    {
+      "name": "Cylinder1449_Mesh.622",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Cylinder1449_Mesh.622.0.ply"
+    },
+    {
+      "name": "Cylinder1450_Mesh.630",
+      "type": "ply",
+      "material": "Black",
+      "relativePath": "Meshes/Cylinder1450_Mesh.630.0.ply"
+    },
+    {
+      "name": "Cylinder1451_Mesh.635",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Cylinder1451_Mesh.635.0.ply"
+    },
+    {
+      "name": "Cylinder1452_Mesh.640",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Cylinder1452_Mesh.640.0.ply"
+    },
+    {
+      "name": "Cylinder1453_Mesh.562",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Cylinder1453_Mesh.562.0.ply"
+    },
+    {
+      "name": "Cylinder1454_Mesh.563",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Cylinder1454_Mesh.563.0.ply"
+    },
+    {
+      "name": "Cylinder1455_Mesh.568",
+      "type": "ply",
+      "material": "Black",
+      "relativePath": "Meshes/Cylinder1455_Mesh.568.0.ply"
+    },
+    {
+      "name": "Cylinder1456_Mesh.572",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Cylinder1456_Mesh.572.0.ply"
+    },
+    {
+      "name": "Cylinder1457_Mesh.577",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Cylinder1457_Mesh.577.0.ply"
+    },
+    {
+      "name": "Cylinder1458_Mesh.537",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Cylinder1458_Mesh.537.0.ply"
+    },
+    {
+      "name": "Cylinder1459_Mesh.538",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Cylinder1459_Mesh.538.0.ply"
+    },
+    {
+      "name": "Cylinder1460_Mesh.546",
+      "type": "ply",
+      "material": "Black",
+      "relativePath": "Meshes/Cylinder1460_Mesh.546.0.ply"
+    },
+    {
+      "name": "Cylinder1461_Mesh.551",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Cylinder1461_Mesh.551.0.ply"
+    },
+    {
+      "name": "Cylinder1462_Mesh.556",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Cylinder1462_Mesh.556.0.ply"
+    },
+    {
+      "name": "Cylinder1463_Mesh.496",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Cylinder1463_Mesh.496.0.ply"
+    },
+    {
+      "name": "Cylinder1464_Mesh.497",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Cylinder1464_Mesh.497.0.ply"
+    },
+    {
+      "name": "Cylinder1465_Mesh.504",
+      "type": "ply",
+      "material": "Black",
+      "relativePath": "Meshes/Cylinder1465_Mesh.504.0.ply"
+    },
+    {
+      "name": "Cylinder1466_Mesh.509",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Cylinder1466_Mesh.509.0.ply"
+    },
+    {
+      "name": "Cylinder1467_Mesh.514",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Cylinder1467_Mesh.514.0.ply"
+    },
+    {
+      "name": "Cylinder1468_Mesh.519",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Cylinder1468_Mesh.519.0.ply"
+    },
+    {
+      "name": "Cylinder1469_Mesh.520",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Cylinder1469_Mesh.520.0.ply"
+    },
+    {
+      "name": "Cylinder1470_Mesh.525",
+      "type": "ply",
+      "material": "Black",
+      "relativePath": "Meshes/Cylinder1470_Mesh.525.0.ply"
+    },
+    {
+      "name": "Cylinder1471_Mesh.530",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Cylinder1471_Mesh.530.0.ply"
+    },
+    {
+      "name": "Cylinder1472_Mesh.535",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Cylinder1472_Mesh.535.0.ply"
+    },
+    {
+      "name": "Line010_Mesh.471",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Line010_Mesh.471.0.ply"
+    },
+    {
+      "name": "Line025_Mesh.472",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Line025_Mesh.472.0.ply"
+    },
+    {
+      "name": "Line029_Mesh.473",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Line029_Mesh.473.0.ply"
+    },
+    {
+      "name": "Line1789530781_Mesh.478",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Line1789530781_Mesh.478.0.ply"
+    },
+    {
+      "name": "Line1789530782_Mesh.487",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Line1789530782_Mesh.487.0.ply"
+    },
+    {
+      "name": "Line1789530783_Mesh.492",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Line1789530783_Mesh.492.0.ply"
+    },
+    {
+      "name": "Line1789530784_Mesh.493",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Line1789530784_Mesh.493.0.ply"
+    },
+    {
+      "name": "Line1789530785_Mesh.494",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Line1789530785_Mesh.494.0.ply"
+    },
+    {
+      "name": "Line1789530833_Mesh.602",
+      "type": "ply",
+      "material": "Black",
+      "relativePath": "Meshes/Line1789530833_Mesh.602.0.ply"
+    },
+    {
+      "name": "Line1789530834_Mesh.606",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Line1789530834_Mesh.606.0.ply"
+    },
+    {
+      "name": "Line1789530835_Mesh.608",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Line1789530835_Mesh.608.0.ply"
+    },
+    {
+      "name": "Line1789530836_Mesh.615",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Line1789530836_Mesh.615.0.ply"
+    },
+    {
+      "name": "Line1789530837_Mesh.617",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Line1789530837_Mesh.617.0.ply"
+    },
+    {
+      "name": "Line1789530838_Mesh.581",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Line1789530838_Mesh.581.0.ply"
+    },
+    {
+      "name": "Line1789530839_Mesh.583",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Line1789530839_Mesh.583.0.ply"
+    },
+    {
+      "name": "Line1789530840_Mesh.585",
+      "type": "ply",
+      "material": "Black",
+      "relativePath": "Meshes/Line1789530840_Mesh.585.0.ply"
+    },
+    {
+      "name": "Line1789530841_Mesh.594",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Line1789530841_Mesh.594.0.ply"
+    },
+    {
+      "name": "Line1789530842_Mesh.596",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Line1789530842_Mesh.596.0.ply"
+    },
+    {
+      "name": "Line1789530843_Mesh.644",
+      "type": "ply",
+      "material": "Black",
+      "relativePath": "Meshes/Line1789530843_Mesh.644.0.ply"
+    },
+    {
+      "name": "Line1789530844_Mesh.648",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Line1789530844_Mesh.648.0.ply"
+    },
+    {
+      "name": "Line1789530845_Mesh.650",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Line1789530845_Mesh.650.0.ply"
+    },
+    {
+      "name": "Line1789530846_Mesh.657",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Line1789530846_Mesh.657.0.ply"
+    },
+    {
+      "name": "Line1789530847_Mesh.659",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Line1789530847_Mesh.659.0.ply"
+    },
+    {
+      "name": "Line1789530848_Mesh.623",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Line1789530848_Mesh.623.0.ply"
+    },
+    {
+      "name": "Line1789530849_Mesh.625",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Line1789530849_Mesh.625.0.ply"
+    },
+    {
+      "name": "Line1789530850_Mesh.627",
+      "type": "ply",
+      "material": "Black",
+      "relativePath": "Meshes/Line1789530850_Mesh.627.0.ply"
+    },
+    {
+      "name": "Line1789530851_Mesh.636",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Line1789530851_Mesh.636.0.ply"
+    },
+    {
+      "name": "Line1789530852_Mesh.638",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Line1789530852_Mesh.638.0.ply"
+    },
+    {
+      "name": "Line1789530853_Mesh.560",
+      "type": "ply",
+      "material": "Black",
+      "relativePath": "Meshes/Line1789530853_Mesh.560.0.ply"
+    },
+    {
+      "name": "Line1789530854_Mesh.564",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Line1789530854_Mesh.564.0.ply"
+    },
+    {
+      "name": "Line1789530855_Mesh.566",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Line1789530855_Mesh.566.0.ply"
+    },
+    {
+      "name": "Line1789530856_Mesh.573",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Line1789530856_Mesh.573.0.ply"
+    },
+    {
+      "name": "Line1789530857_Mesh.575",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Line1789530857_Mesh.575.0.ply"
+    },
+    {
+      "name": "Line1789530858_Mesh.539",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Line1789530858_Mesh.539.0.ply"
+    },
+    {
+      "name": "Line1789530859_Mesh.541",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Line1789530859_Mesh.541.0.ply"
+    },
+    {
+      "name": "Line1789530860_Mesh.543",
+      "type": "ply",
+      "material": "Black",
+      "relativePath": "Meshes/Line1789530860_Mesh.543.0.ply"
+    },
+    {
+      "name": "Line1789530861_Mesh.552",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Line1789530861_Mesh.552.0.ply"
+    },
+    {
+      "name": "Line1789530862_Mesh.554",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Line1789530862_Mesh.554.0.ply"
+    },
+    {
+      "name": "Line1789530863_Mesh.495",
+      "type": "ply",
+      "material": "Black",
+      "relativePath": "Meshes/Line1789530863_Mesh.495.0.ply"
+    },
+    {
+      "name": "Line1789530864_Mesh.498",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Line1789530864_Mesh.498.0.ply"
+    },
+    {
+      "name": "Line1789530865_Mesh.500",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Line1789530865_Mesh.500.0.ply"
+    },
+    {
+      "name": "Line1789530866_Mesh.510",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Line1789530866_Mesh.510.0.ply"
+    },
+    {
+      "name": "Line1789530867_Mesh.512",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Line1789530867_Mesh.512.0.ply"
+    },
+    {
+      "name": "Line1789530868_Mesh.516",
+      "type": "ply",
+      "material": "Black",
+      "relativePath": "Meshes/Line1789530868_Mesh.516.0.ply"
+    },
+    {
+      "name": "Line1789530869_Mesh.521",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Line1789530869_Mesh.521.0.ply"
+    },
+    {
+      "name": "Line1789530870_Mesh.523",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Line1789530870_Mesh.523.0.ply"
+    },
+    {
+      "name": "Line1789530871_Mesh.531",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Line1789530871_Mesh.531.0.ply"
+    },
+    {
+      "name": "Line1789530872_Mesh.533",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Line1789530872_Mesh.533.0.ply"
+    },
+    {
+      "name": "Object008",
+      "type": "ply",
+      "material": "212",
+      "relativePath": "Meshes/Object008.0.ply"
+    },
+    {
+      "name": "Object009",
+      "type": "ply",
+      "material": "212",
+      "relativePath": "Meshes/Object009.0.ply"
+    },
+    {
+      "name": "Object009",
+      "type": "ply",
+      "material": "Material.026",
+      "relativePath": "Meshes/Object009.1.ply"
+    },
+    {
+      "name": "Plane.001_Plane.006",
+      "type": "ply",
+      "material": "Material.047",
+      "relativePath": "Meshes/Plane.001_Plane.006.0.ply"
+    },
+    {
+      "name": "Plane.001_Plane.006",
+      "type": "ply",
+      "material": "Material.048",
+      "relativePath": "Meshes/Plane.001_Plane.006.1.ply"
+    },
+    {
+      "name": "Plane.001_Plane.006",
+      "type": "ply",
+      "material": "Material.049",
+      "relativePath": "Meshes/Plane.001_Plane.006.2.ply"
+    },
+    {
+      "name": "Sphere009_Mesh.477",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere009_Mesh.477.0.ply"
+    },
+    {
+      "name": "Sphere010_Mesh.474",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere010_Mesh.474.0.ply"
+    },
+    {
+      "name": "Sphere013_Mesh.475",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere013_Mesh.475.0.ply"
+    },
+    {
+      "name": "Sphere014_Mesh.476",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere014_Mesh.476.0.ply"
+    },
+    {
+      "name": "Sphere107_Mesh.479",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere107_Mesh.479.0.ply"
+    },
+    {
+      "name": "Sphere108_Mesh.480",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere108_Mesh.480.0.ply"
+    },
+    {
+      "name": "Sphere109_Mesh.481",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere109_Mesh.481.0.ply"
+    },
+    {
+      "name": "Sphere110_Mesh.482",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere110_Mesh.482.0.ply"
+    },
+    {
+      "name": "Sphere111_Mesh.483",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere111_Mesh.483.0.ply"
+    },
+    {
+      "name": "Sphere112_Mesh.484",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere112_Mesh.484.0.ply"
+    },
+    {
+      "name": "Sphere113_Mesh.485",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere113_Mesh.485.0.ply"
+    },
+    {
+      "name": "Sphere114_Mesh.486",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere114_Mesh.486.0.ply"
+    },
+    {
+      "name": "Sphere115_Mesh.488",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere115_Mesh.488.0.ply"
+    },
+    {
+      "name": "Sphere116_Mesh.489",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere116_Mesh.489.0.ply"
+    },
+    {
+      "name": "Sphere117_Mesh.490",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere117_Mesh.490.0.ply"
+    },
+    {
+      "name": "Sphere118_Mesh.491",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere118_Mesh.491.0.ply"
+    },
+    {
+      "name": "Sphere141_Mesh.613",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere141_Mesh.613.0.ply"
+    },
+    {
+      "name": "Sphere142_Mesh.620",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere142_Mesh.620.0.ply"
+    },
+    {
+      "name": "Sphere143_Mesh.592",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere143_Mesh.592.0.ply"
+    },
+    {
+      "name": "Sphere144_Mesh.599",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere144_Mesh.599.0.ply"
+    },
+    {
+      "name": "Sphere145_Mesh.655",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere145_Mesh.655.0.ply"
+    },
+    {
+      "name": "Sphere146_Mesh.662",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere146_Mesh.662.0.ply"
+    },
+    {
+      "name": "Sphere147_Mesh.634",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere147_Mesh.634.0.ply"
+    },
+    {
+      "name": "Sphere148_Mesh.641",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere148_Mesh.641.0.ply"
+    },
+    {
+      "name": "Sphere149_Mesh.571",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere149_Mesh.571.0.ply"
+    },
+    {
+      "name": "Sphere150_Mesh.578",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere150_Mesh.578.0.ply"
+    },
+    {
+      "name": "Sphere151_Mesh.550",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere151_Mesh.550.0.ply"
+    },
+    {
+      "name": "Sphere152_Mesh.557",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere152_Mesh.557.0.ply"
+    },
+    {
+      "name": "Sphere153_Mesh.508",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere153_Mesh.508.0.ply"
+    },
+    {
+      "name": "Sphere154_Mesh.515",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere154_Mesh.515.0.ply"
+    },
+    {
+      "name": "Sphere155_Mesh.529",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere155_Mesh.529.0.ply"
+    },
+    {
+      "name": "Sphere156_Mesh.536",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Sphere156_Mesh.536.0.ply"
+    },
+    {
+      "name": "Star031_Mesh.601",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Star031_Mesh.601.0.ply"
+    },
+    {
+      "name": "Star032_Mesh.612",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Star032_Mesh.612.0.ply"
+    },
+    {
+      "name": "Star033_Mesh.609",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Star033_Mesh.609.0.ply"
+    },
+    {
+      "name": "Star034_Mesh.584",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Star034_Mesh.584.0.ply"
+    },
+    {
+      "name": "Star035_Mesh.587",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Star035_Mesh.587.0.ply"
+    },
+    {
+      "name": "Star036_Mesh.591",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Star036_Mesh.591.0.ply"
+    },
+    {
+      "name": "Star037_Mesh.643",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Star037_Mesh.643.0.ply"
+    },
+    {
+      "name": "Star038_Mesh.651",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Star038_Mesh.651.0.ply"
+    },
+    {
+      "name": "Star039_Mesh.654",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Star039_Mesh.654.0.ply"
+    },
+    {
+      "name": "Star040_Mesh.626",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Star040_Mesh.626.0.ply"
+    },
+    {
+      "name": "Star041_Mesh.629",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Star041_Mesh.629.0.ply"
+    },
+    {
+      "name": "Star042_Mesh.633",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Star042_Mesh.633.0.ply"
+    },
+    {
+      "name": "Star043_Mesh.559",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Star043_Mesh.559.0.ply"
+    },
+    {
+      "name": "Star044_Mesh.567",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Star044_Mesh.567.0.ply"
+    },
+    {
+      "name": "Star045_Mesh.570",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Star045_Mesh.570.0.ply"
+    },
+    {
+      "name": "Star046_Mesh.542",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Star046_Mesh.542.0.ply"
+    },
+    {
+      "name": "Star047_Mesh.545",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Star047_Mesh.545.0.ply"
+    },
+    {
+      "name": "Star048_Mesh.549",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Star048_Mesh.549.0.ply"
+    },
+    {
+      "name": "Star049_Mesh.501",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Star049_Mesh.501.0.ply"
+    },
+    {
+      "name": "Star050_Mesh.503",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Star050_Mesh.503.0.ply"
+    },
+    {
+      "name": "Star051_Mesh.507",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Star051_Mesh.507.0.ply"
+    },
+    {
+      "name": "Star052_Mesh.517",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Star052_Mesh.517.0.ply"
+    },
+    {
+      "name": "Star053_Mesh.524",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Star053_Mesh.524.0.ply"
+    },
+    {
+      "name": "Star054_Mesh.528",
+      "type": "ply",
+      "material": "Supergloss_Jet_Black",
+      "relativePath": "Meshes/Star054_Mesh.528.0.ply"
+    },
+    {
+      "name": "Tube004",
+      "type": "ply",
+      "material": "212",
+      "relativePath": "Meshes/Tube004.0.ply"
+    },
+    {
+      "name": "Tube041_Mesh.611",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Tube041_Mesh.611.0.ply"
+    },
+    {
+      "name": "Tube042_Mesh.616",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Tube042_Mesh.616.0.ply"
+    },
+    {
+      "name": "Tube043_Mesh.618",
+      "type": "ply",
+      "material": "Material.025",
+      "relativePath": "Meshes/Tube043_Mesh.618.0.ply"
+    },
+    {
+      "name": "Tube044_Mesh.589",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Tube044_Mesh.589.0.ply"
+    },
+    {
+      "name": "Tube045_Mesh.595",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Tube045_Mesh.595.0.ply"
+    },
+    {
+      "name": "Tube046_Mesh.597",
+      "type": "ply",
+      "material": "Material.025",
+      "relativePath": "Meshes/Tube046_Mesh.597.0.ply"
+    },
+    {
+      "name": "Tube047_Mesh.653",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Tube047_Mesh.653.0.ply"
+    },
+    {
+      "name": "Tube048_Mesh.658",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Tube048_Mesh.658.0.ply"
+    },
+    {
+      "name": "Tube049_Mesh.660",
+      "type": "ply",
+      "material": "Material.025",
+      "relativePath": "Meshes/Tube049_Mesh.660.0.ply"
+    },
+    {
+      "name": "Tube050_Mesh.631",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Tube050_Mesh.631.0.ply"
+    },
+    {
+      "name": "Tube051_Mesh.637",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Tube051_Mesh.637.0.ply"
+    },
+    {
+      "name": "Tube052_Mesh.639",
+      "type": "ply",
+      "material": "Material.025",
+      "relativePath": "Meshes/Tube052_Mesh.639.0.ply"
+    },
+    {
+      "name": "Tube053_Mesh.569",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Tube053_Mesh.569.0.ply"
+    },
+    {
+      "name": "Tube054_Mesh.574",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Tube054_Mesh.574.0.ply"
+    },
+    {
+      "name": "Tube055_Mesh.576",
+      "type": "ply",
+      "material": "Material.025",
+      "relativePath": "Meshes/Tube055_Mesh.576.0.ply"
+    },
+    {
+      "name": "Tube056_Mesh.547",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Tube056_Mesh.547.0.ply"
+    },
+    {
+      "name": "Tube057_Mesh.553",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Tube057_Mesh.553.0.ply"
+    },
+    {
+      "name": "Tube058_Mesh.555",
+      "type": "ply",
+      "material": "Material.025",
+      "relativePath": "Meshes/Tube058_Mesh.555.0.ply"
+    },
+    {
+      "name": "Tube059_Mesh.505",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Tube059_Mesh.505.0.ply"
+    },
+    {
+      "name": "Tube060_Mesh.511",
+      "type": "ply",
+      "material": "None",
+      "relativePath": "Meshes/Tube060_Mesh.511.0.ply"
+    },
+    {
+      "name": "Tube061_Mesh.513",
+      "type": "ply",
+      "material": "Material.025",
+      "relativePath": "Meshes/Tube061_Mesh.513.0.ply"
+    },
+    {
+      "name": "Tube062_Mesh.526",
+      "type": "ply",
+      "material": "BaseMtl",
+      "relativePath": "Meshes/Tube062_Mesh.526.0.ply"
+    },
+    {
+      "name": "Tube063_Mesh.532",
+      "type": "ply",
+      "material": "Aluminium",
+      "relativePath": "Meshes/Tube063_Mesh.532.0.ply"
+    },
+    {
+      "name": "Tube064_Mesh.534",
+      "type": "ply",
+      "material": "Material.025",
+      "relativePath": "Meshes/Tube064_Mesh.534.0.ply"
+    },
+    {
+      "name": "Cube.001",
+      "type": "ply",
+      "material": "Material.036",
+      "relativePath": "Meshes/Cube.001.0.ply"
+    },
+    {
+      "name": "Cube.002",
+      "type": "ply",
+      "material": "Material.003",
+      "relativePath": "Meshes/Cube.002.0.ply"
+    },
+    {
+      "name": "Cube.003",
+      "type": "ply",
+      "material": "Material.041",
+      "relativePath": "Meshes/Cube.003.0.ply"
+    },
+    {
+      "name": "Cube.004",
+      "type": "ply",
+      "material": "Material.036",
+      "relativePath": "Meshes/Cube.004.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.001",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.001.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.001",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.001.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.001",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.001.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.001",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.001.3.ply"
+    },
+    {
+      "name": "Leg_Cylinder.002",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Leg_Cylinder.002.0.ply"
+    },
+    {
+      "name": "Leg_Cylinder.002",
+      "type": "ply",
+      "material": "Wood.001",
+      "relativePath": "Meshes/Leg_Cylinder.002.1.ply"
+    },
+    {
+      "name": "Stem_Cylinder",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Stem_Cylinder.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.002",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.002.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.002",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.002.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.002",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.002.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.002",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.002.3.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.003",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.003.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.003",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.003.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.003",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.003.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.003",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.003.3.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.005",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.005.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.005",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.005.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.005",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.005.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.005",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.005.3.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.006",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.006.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.006",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.006.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.006",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.006.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.006",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.006.3.ply"
+    },
+    {
+      "name": "Leg_Cylinder.001",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Leg_Cylinder.001.0.ply"
+    },
+    {
+      "name": "Leg_Cylinder.001",
+      "type": "ply",
+      "material": "Wood.001",
+      "relativePath": "Meshes/Leg_Cylinder.001.1.ply"
+    },
+    {
+      "name": "Stem_Cylinder.001",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Stem_Cylinder.001.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.007",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.007.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.007",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.007.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.007",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.007.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.007",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.007.3.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.008",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.008.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.008",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.008.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.008",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.008.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.008",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.008.3.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.009",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.009.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.009",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.009.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.009",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.009.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.009",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.009.3.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.011",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.011.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.011",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.011.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.011",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.011.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.011",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.011.3.ply"
+    },
+    {
+      "name": "Leg_Cylinder.003",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Leg_Cylinder.003.0.ply"
+    },
+    {
+      "name": "Leg_Cylinder.003",
+      "type": "ply",
+      "material": "Wood.001",
+      "relativePath": "Meshes/Leg_Cylinder.003.1.ply"
+    },
+    {
+      "name": "Stem_Cylinder.002",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Stem_Cylinder.002.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.012",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.012.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.012",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.012.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.012",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.012.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.012",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.012.3.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.013",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.013.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.013",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.013.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.013",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.013.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.013",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.013.3.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.014",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.014.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.014",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.014.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.014",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.014.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.014",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.014.3.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.016",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.016.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.016",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.016.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.016",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.016.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.016",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.016.3.ply"
+    },
+    {
+      "name": "Leg_Cylinder.004",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Leg_Cylinder.004.0.ply"
+    },
+    {
+      "name": "Leg_Cylinder.004",
+      "type": "ply",
+      "material": "Wood.001",
+      "relativePath": "Meshes/Leg_Cylinder.004.1.ply"
+    },
+    {
+      "name": "Stem_Cylinder.003",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Stem_Cylinder.003.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.017",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.017.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.017",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.017.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.017",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.017.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.017",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.017.3.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.018",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.018.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.018",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.018.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.018",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.018.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.018",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.018.3.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.019",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.019.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.019",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.019.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.019",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.019.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.019",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.019.3.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.021",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.021.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.021",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.021.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.021",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.021.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.021",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.021.3.ply"
+    },
+    {
+      "name": "Leg_Cylinder.005",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Leg_Cylinder.005.0.ply"
+    },
+    {
+      "name": "Leg_Cylinder.005",
+      "type": "ply",
+      "material": "Wood.001",
+      "relativePath": "Meshes/Leg_Cylinder.005.1.ply"
+    },
+    {
+      "name": "Stem_Cylinder.004",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Stem_Cylinder.004.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.022",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.022.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.022",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.022.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.022",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.022.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.022",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.022.3.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.023",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.023.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.023",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.023.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.023",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.023.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.023",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.023.3.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.024",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.024.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.024",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.024.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.024",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.024.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.024",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.024.3.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.026",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.026.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.026",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.026.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.026",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.026.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.026",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.026.3.ply"
+    },
+    {
+      "name": "Leg_Cylinder.006",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Leg_Cylinder.006.0.ply"
+    },
+    {
+      "name": "Leg_Cylinder.006",
+      "type": "ply",
+      "material": "Wood.001",
+      "relativePath": "Meshes/Leg_Cylinder.006.1.ply"
+    },
+    {
+      "name": "Stem_Cylinder.005",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Stem_Cylinder.005.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.027",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.027.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.027",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.027.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.027",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.027.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.027",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.027.3.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.028",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.028.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.028",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.028.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.028",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.028.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.028",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.028.3.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.029",
+      "type": "ply",
+      "material": "White_Plastic.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.029.0.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.029",
+      "type": "ply",
+      "material": "Brushed_Stainless_Steel.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.029.1.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.029",
+      "type": "ply",
+      "material": "Lampshade_material.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.029.2.ply"
+    },
+    {
+      "name": "Lamp_-_Left_Lampholder.029",
+      "type": "ply",
+      "material": "LightLeft.001",
+      "relativePath": "Meshes/Lamp_-_Left_Lampholder.029.3.ply"
+    },
+    {
+      "name": "CONTROL1.001_Mesh.341",
+      "type": "ply",
+      "material": "Material.028",
+      "relativePath": "Meshes/CONTROL1.001_Mesh.341.0.ply"
+    },
+    {
+      "name": "CONTROL1.001_Mesh.341",
+      "type": "ply",
+      "material": "None",
+      "relativePath": "Meshes/CONTROL1.001_Mesh.341.1.ply"
+    },
+    {
+      "name": "CONTROL1.001_Mesh.341",
+      "type": "ply",
+      "material": "Material.035",
+      "relativePath": "Meshes/CONTROL1.001_Mesh.341.2.ply"
+    },
+    {
+      "name": "CONTROL1.001_Mesh.341",
+      "type": "ply",
+      "material": "Material.034",
+      "relativePath": "Meshes/CONTROL1.001_Mesh.341.3.ply"
+    },
+    {
+      "name": "CONTROL1.001_Mesh.341",
+      "type": "ply",
+      "material": "Material.027",
+      "relativePath": "Meshes/CONTROL1.001_Mesh.341.4.ply"
+    },
+    {
+      "name": "CONTROL1.001_Mesh.341",
+      "type": "ply",
+      "material": "Material.029",
+      "relativePath": "Meshes/CONTROL1.001_Mesh.341.5.ply"
+    },
+    {
+      "name": "CONTROL1.001_Mesh.341",
+      "type": "ply",
+      "material": "Material.030",
+      "relativePath": "Meshes/CONTROL1.001_Mesh.341.6.ply"
+    },
+    {
+      "name": "CONTROL1.001_Mesh.341",
+      "type": "ply",
+      "material": "Material.033",
+      "relativePath": "Meshes/CONTROL1.001_Mesh.341.7.ply"
+    },
+    {
+      "name": "CONTROL1.001_Mesh.001",
+      "type": "ply",
+      "material": "Material.028",
+      "relativePath": "Meshes/CONTROL1.001_Mesh.001.0.ply"
+    },
+    {
+      "name": "CONTROL1.001_Mesh.001",
+      "type": "ply",
+      "material": "None",
+      "relativePath": "Meshes/CONTROL1.001_Mesh.001.1.ply"
+    },
+    {
+      "name": "CONTROL1.001_Mesh.001",
+      "type": "ply",
+      "material": "Material.035",
+      "relativePath": "Meshes/CONTROL1.001_Mesh.001.2.ply"
+    },
+    {
+      "name": "CONTROL1.001_Mesh.001",
+      "type": "ply",
+      "material": "Material.034",
+      "relativePath": "Meshes/CONTROL1.001_Mesh.001.3.ply"
+    },
+    {
+      "name": "CONTROL1.001_Mesh.001",
+      "type": "ply",
+      "material": "Material.027",
+      "relativePath": "Meshes/CONTROL1.001_Mesh.001.4.ply"
+    },
+    {
+      "name": "CONTROL1.001_Mesh.001",
+      "type": "ply",
+      "material": "Material.029",
+      "relativePath": "Meshes/CONTROL1.001_Mesh.001.5.ply"
+    },
+    {
+      "name": "CONTROL1.001_Mesh.001",
+      "type": "ply",
+      "material": "Material.030",
+      "relativePath": "Meshes/CONTROL1.001_Mesh.001.6.ply"
+    },
+    {
+      "name": "CONTROL1.001_Mesh.001",
+      "type": "ply",
+      "material": "Material.033",
+      "relativePath": "Meshes/CONTROL1.001_Mesh.001.7.ply"
+    }
+  ],
+  "exposure": 0.0
+}

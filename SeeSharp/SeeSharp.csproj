@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+
+    <Title>SeeSharp</Title>
+    <Description>A flexibility-first framework for rapid prototyping of rendering algorithms.</Description>
+    <PackageId>SeeSharp</PackageId>
+    <Version>2.0.3</Version>
+    <Copyright>(c) Pascal Grittmann</Copyright>
+    <RepositoryUrl>https://github.com/pgrit/SeeSharp</RepositoryUrl>
+
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <Authors>Pascal Grittmann</Authors>
+    <IncludeBuildOutput>true</IncludeBuildOutput>
+    <IsPackable>true</IsPackable>
+    <PackageTags>rendering global illumination ray tracing bidirectional renderer</PackageTags>
+
+    <PackageIcon>logo.png</PackageIcon>
+
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>1591</NoWarn>
+
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="../LICENSE" Pack="true" PackagePath="" />
+    <None Include="../README.md" Pack="true" PackagePath="" />
+    <None Include="../logo.png" Pack="true" PackagePath="" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Markdig" Version="0.37.0" />
+    <PackageReference Include="SimpleImageIO" Version="1.6.1" />
+    <!-- <ProjectReference Include="../../SimpleImageIO/SimpleImageIO/SimpleImageIO.csproj" /> -->
+    <PackageReference Include="TinyEmbree" Version="1.0.3" />
+    <!-- <ProjectReference Include="../../TinyEmbree/TinyEmbree/TinyEmbree.csproj" /> -->
+  </ItemGroup>
+
+</Project>

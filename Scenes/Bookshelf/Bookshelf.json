@@ -1,0 +1,1413 @@
+{
+    "name": "bookshelf_0_5_0",
+    "transforms": [
+        {
+            "name": "__camera",
+            "matrix": [
+                0.5982958,
+                -0,
+                0.8012753,
+                0,
+                0.05293131,
+                0.9978157,
+                -0.039522722,
+                0,
+                -0.7995251,
+                0.06605883,
+                0.596989,
+                0,
+                3.4115,
+                5.8428,
+                22.8604,
+                1
+            ]
+        }
+    ],
+    "cameras": [
+        {
+            "name": "camera",
+            "type": "perspective",
+            "fov": 38.861313,
+            "transform": "__camera"
+        }
+    ],
+    "materials": [
+        {
+            "type": "generic",
+            "name": "tinyPicMaterial",
+            "baseColor": {
+                "type": "image",
+                "filename": "data/images/tiny_picture.jpg"
+            },
+            "thin": false,
+            "roughness": 0,
+            "anisotropic": 0,
+            "diffuseTransmittance": 0,
+            "IOR": 1.49,
+            "metallic": 0,
+            "specularTint": 1,
+            "specularTransmittance": 0
+        },
+        {
+            "type": "generic",
+            "name": "blackFinished",
+            "baseColor": {
+                "type": "rgb",
+                "value": [
+                    0.005,
+                    0.005,
+                    0.005
+                ]
+            },
+            "thin": false,
+            "roughness": 0,
+            "anisotropic": 0,
+            "diffuseTransmittance": 0,
+            "IOR": 1.49,
+            "metallic": 0,
+            "specularTint": 1,
+            "specularTransmittance": 0
+        },
+        {
+            "type": "generic",
+            "name": "roughAlu",
+            "baseColor": {
+                "type": "rgb",
+                "value": [
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "thin": false,
+            "roughness": 0.38729835,
+            "anisotropic": 0,
+            "diffuseTransmittance": 0,
+            "IOR": 1.15,
+            "metallic": 1,
+            "specularTint": 1,
+            "specularTransmittance": 0
+        },
+        {
+            "type": "diffuse",
+            "name": "whiteDiff",
+            "baseColor": {
+                "type": "rgb",
+                "value": [
+                    0.5,
+                    0.5,
+                    0.5
+                ]
+            },
+            "thin": false
+        },
+        {
+            "type": "generic",
+            "name": "polishedChromium",
+            "baseColor": {
+                "type": "rgb",
+                "value": [
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "thin": false,
+            "roughness": 0,
+            "anisotropic": 0,
+            "diffuseTransmittance": 0,
+            "IOR": 2.98,
+            "metallic": 1,
+            "specularTint": 1,
+            "specularTransmittance": 0
+        },
+        {
+            "type": "generic",
+            "name": "ceramics",
+            "baseColor": {
+                "type": "rgb",
+                "value": [
+                    0.8,
+                    0.8,
+                    0.8
+                ]
+            },
+            "thin": false,
+            "roughness": 0,
+            "anisotropic": 0,
+            "diffuseTransmittance": 0,
+            "IOR": 1.49,
+            "metallic": 0,
+            "specularTint": 1,
+            "specularTransmittance": 0
+        },
+        {
+            "type": "generic",
+            "name": "glass",
+            "baseColor": {
+                "type": "rgb",
+                "value": [
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "thin": false,
+            "roughness": 0,
+            "anisotropic": 0,
+            "diffuseTransmittance": 0,
+            "IOR": 1.5,
+            "metallic": 0,
+            "specularTint": 1,
+            "specularTransmittance": 1
+        },
+        {
+            "type": "generic",
+            "name": "silver",
+            "baseColor": {
+                "type": "rgb",
+                "value": [
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "thin": false,
+            "roughness": 0.17320508,
+            "anisotropic": 0,
+            "diffuseTransmittance": 0,
+            "IOR": 0.129,
+            "metallic": 1,
+            "specularTint": 1,
+            "specularTransmittance": 0
+        },
+        {
+            "type": "generic",
+            "name": "floorMaterial",
+            "baseColor": {
+                "type": "image",
+                "filename": "data/images/wood_floor.jpg"
+            },
+            "thin": false,
+            "roughness": 0,
+            "anisotropic": 0,
+            "diffuseTransmittance": 0,
+            "IOR": 1.49,
+            "metallic": 0,
+            "specularTint": 1,
+            "specularTransmittance": 0
+        },
+        {
+            "type": "diffuse",
+            "name": "booksLeftMaterial",
+            "baseColor": {
+                "type": "image",
+                "filename": "data/images/books1.png"
+            },
+            "thin": false
+        },
+        {
+            "type": "diffuse",
+            "name": "booksTopMaterial",
+            "baseColor": {
+                "type": "image",
+                "filename": "data/images/books2.jpg"
+            },
+            "thin": false
+        },
+        {
+            "type": "diffuse",
+            "name": "booksAlistairMaterial",
+            "baseColor": {
+                "type": "image",
+                "filename": "data/images/book_alistair.jpg"
+            },
+            "thin": false
+        },
+        {
+            "type": "diffuse",
+            "name": "booksHistoriaMaterial",
+            "baseColor": {
+                "type": "image",
+                "filename": "data/images/book_historia.jpg"
+            },
+            "thin": false
+        },
+        {
+            "type": "diffuse",
+            "name": "booksDictionaryMaterial",
+            "baseColor": {
+                "type": "image",
+                "filename": "data/images/book_dictionary.jpg"
+            },
+            "thin": false
+        },
+        {
+            "type": "generic",
+            "name": "furnitureMaterial",
+            "baseColor": {
+                "type": "image",
+                "filename": "data/images/105.JPG"
+            },
+            "thin": false,
+            "roughness": 0.8,
+            "anisotropic": 0,
+            "diffuseTransmittance": 0,
+            "IOR": 1.49,
+            "metallic": 0,
+            "specularTint": 1,
+            "specularTransmittance": 0
+        },
+        {
+            "type": "generic",
+            "name": "gold",
+            "baseColor": {
+                "type": "rgb",
+                "value": [
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "thin": false,
+            "roughness": 0.31622776,
+            "anisotropic": 0,
+            "diffuseTransmittance": 0,
+            "IOR": 0.402,
+            "metallic": 1,
+            "specularTint": 1,
+            "specularTransmittance": 0
+        },
+        {
+            "type": "diffuse",
+            "name": "brownDiff",
+            "baseColor": {
+                "type": "rgb",
+                "value": [
+                    0.5,
+                    0.3,
+                    0.1
+                ]
+            },
+            "thin": false
+        },
+        {
+            "type": "diffuse",
+            "name": "wallpaperMaterial",
+            "baseColor": {
+                "type": "image",
+                "filename": "data/images/wallpaper.jpg"
+            },
+            "thin": false
+        },
+        {
+            "type": "generic",
+            "name": "mirrorMaterial",
+            "baseColor": {
+                "type": "rgb",
+                "value": [
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "thin": false,
+            "roughness": 0,
+            "anisotropic": 0,
+            "diffuseTransmittance": 0,
+            "IOR": 1.15,
+            "metallic": 1,
+            "specularTint": 1,
+            "specularTransmittance": 0
+        },
+        {
+            "type": "generic",
+            "name": "largePicMaterial",
+            "baseColor": {
+                "type": "image",
+                "filename": "data/images/Snow flowers.jpg"
+            },
+            "thin": false,
+            "roughness": 0,
+            "anisotropic": 0,
+            "diffuseTransmittance": 0,
+            "IOR": 1.49,
+            "metallic": 0,
+            "specularTint": 1,
+            "specularTransmittance": 0
+        },
+        {
+            "type": "diffuse",
+            "name": "redDiff",
+            "baseColor": {
+                "type": "rgb",
+                "value": [
+                    0.5,
+                    0.05,
+                    0.05
+                ]
+            },
+            "thin": false
+        },
+        {
+            "type": "diffuse",
+            "name": "__black__24",
+            "baseColor": {
+                "type": "rgb",
+                "value": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "thin": false
+        },
+        {
+            "type": "diffuse",
+            "name": "__black__25",
+            "baseColor": {
+                "type": "rgb",
+                "value": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "thin": false
+        },
+        {
+            "type": "diffuse",
+            "name": "__black__26",
+            "baseColor": {
+                "type": "rgb",
+                "value": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "thin": false
+        },
+        {
+            "type": "diffuse",
+            "name": "__black__27",
+            "baseColor": {
+                "type": "rgb",
+                "value": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "thin": false
+        },
+        {
+            "type": "diffuse",
+            "name": "__black__28",
+            "baseColor": {
+                "type": "rgb",
+                "value": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "thin": false
+        }
+    ],
+    "objects": [
+        {
+            "name": "mesh_0",
+            "type": "ply",
+            "relativePath": "data/meshes/lightBulb.ply",
+            "material": "__black__24",
+            "emission": {
+                "value": [
+                    4000,
+                    4000,
+                    4000
+                ]
+            }
+        },
+        {
+            "name": "mesh_1",
+            "type": "ply",
+            "relativePath": "data/meshes/lightArea1.ply",
+            "material": "__black__25",
+            "emission": {
+                "value": [
+                    500,
+                    500,
+                    500
+                ]
+            }
+        },
+        {
+            "name": "mesh_2",
+            "type": "ply",
+            "relativePath": "data/meshes/lightSocket1Long.ply",
+            "material": "brownDiff"
+        },
+        {
+            "name": "mesh_3",
+            "type": "ply",
+            "relativePath": "data/meshes/lightArea.ply",
+            "material": "__black__26",
+            "emission": {
+                "value": [
+                    100,
+                    100,
+                    100
+                ]
+            }
+        },
+        {
+            "name": "mesh_4",
+            "type": "ply",
+            "relativePath": "data/meshes/lightSocketLong.ply",
+            "material": "brownDiff"
+        },
+        {
+            "name": "mesh_5",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04.ply",
+            "material": "__black__27"
+        },
+        {
+            "name": "mesh_6",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_2.ply",
+            "material": "__black__28"
+        },
+        {
+            "name": "mesh_7",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_3.ply",
+            "material": "whiteDiff"
+        },
+        {
+            "name": "mesh_8",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_4.ply",
+            "material": "gold"
+        },
+        {
+            "name": "mesh_9",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_5.ply",
+            "material": "gold"
+        },
+        {
+            "name": "mesh_10",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_6.ply",
+            "material": "gold"
+        },
+        {
+            "name": "mesh_11",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_7.ply",
+            "material": "gold"
+        },
+        {
+            "name": "mesh_12",
+            "type": "ply",
+            "relativePath": "data/meshes/tinyPic.ply",
+            "material": "tinyPicMaterial"
+        },
+        {
+            "name": "mesh_13",
+            "type": "ply",
+            "relativePath": "data/meshes/tinyPicFrame.ply",
+            "material": "blackFinished"
+        },
+        {
+            "name": "mesh_14",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_8.ply",
+            "material": "polishedChromium"
+        },
+        {
+            "name": "mesh_15",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_9.ply",
+            "material": "roughAlu"
+        },
+        {
+            "name": "mesh_16",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_10.ply",
+            "material": "whiteDiff"
+        },
+        {
+            "name": "mesh_17",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_11.ply",
+            "material": "polishedChromium"
+        },
+        {
+            "name": "mesh_18",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_12.ply",
+            "material": "roughAlu"
+        },
+        {
+            "name": "mesh_19",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_13.ply",
+            "material": "roughAlu"
+        },
+        {
+            "name": "mesh_20",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_14.ply",
+            "material": "whiteDiff"
+        },
+        {
+            "name": "mesh_21",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_15.ply",
+            "material": "polishedChromium"
+        },
+        {
+            "name": "mesh_22",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_16.ply",
+            "material": "whiteDiff"
+        },
+        {
+            "name": "mesh_23",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_17.ply",
+            "material": "polishedChromium"
+        },
+        {
+            "name": "mesh_24",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_18.ply",
+            "material": "silver"
+        },
+        {
+            "name": "mesh_25",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_19.ply",
+            "material": "roughAlu"
+        },
+        {
+            "name": "mesh_26",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_20.ply",
+            "material": "redDiff"
+        },
+        {
+            "name": "mesh_27",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_21.ply",
+            "material": "whiteDiff"
+        },
+        {
+            "name": "mesh_28",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_22.ply",
+            "material": "glass"
+        },
+        {
+            "name": "mesh_29",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_23.ply",
+            "material": "glass"
+        },
+        {
+            "name": "mesh_30",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_24.ply",
+            "material": "glass"
+        },
+        {
+            "name": "mesh_31",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_25.ply",
+            "material": "glass"
+        },
+        {
+            "name": "mesh_32",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_26.ply",
+            "material": "silver"
+        },
+        {
+            "name": "mesh_33",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_27.ply",
+            "material": "silver"
+        },
+        {
+            "name": "mesh_34",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_28.ply",
+            "material": "silver"
+        },
+        {
+            "name": "mesh_35",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_29.ply",
+            "material": "silver"
+        },
+        {
+            "name": "mesh_36",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_30.ply",
+            "material": "floorMaterial"
+        },
+        {
+            "name": "mesh_37",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_31.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_38",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_32.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_39",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_33.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_40",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_34.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_41",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_35.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_42",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_36.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_43",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_37.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_44",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_38.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_45",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_39.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_46",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_40.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_47",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_41.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_48",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_42.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_49",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_43.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_50",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_44.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_51",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_45.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_52",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_46.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_53",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_47.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_54",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_48.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_55",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_49.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_56",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_50.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_57",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_51.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_58",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_52.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_59",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_53.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_60",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_54.ply",
+            "material": "booksLeftMaterial"
+        },
+        {
+            "name": "mesh_61",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_55.ply",
+            "material": "booksTopMaterial"
+        },
+        {
+            "name": "mesh_62",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_56.ply",
+            "material": "booksTopMaterial"
+        },
+        {
+            "name": "mesh_63",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_57.ply",
+            "material": "booksAlistairMaterial"
+        },
+        {
+            "name": "mesh_64",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_58.ply",
+            "material": "booksHistoriaMaterial"
+        },
+        {
+            "name": "mesh_65",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_59.ply",
+            "material": "booksDictionaryMaterial"
+        },
+        {
+            "name": "mesh_66",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_60.ply",
+            "material": "booksTopMaterial"
+        },
+        {
+            "name": "mesh_67",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_61.ply",
+            "material": "booksTopMaterial"
+        },
+        {
+            "name": "mesh_68",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_62.ply",
+            "material": "booksTopMaterial"
+        },
+        {
+            "name": "mesh_69",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_63.ply",
+            "material": "booksTopMaterial"
+        },
+        {
+            "name": "mesh_70",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_64.ply",
+            "material": "booksDictionaryMaterial"
+        },
+        {
+            "name": "mesh_71",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_65.ply",
+            "material": "booksTopMaterial"
+        },
+        {
+            "name": "mesh_72",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_66.ply",
+            "material": "booksTopMaterial"
+        },
+        {
+            "name": "mesh_73",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_67.ply",
+            "material": "booksTopMaterial"
+        },
+        {
+            "name": "mesh_74",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_68.ply",
+            "material": "booksDictionaryMaterial"
+        },
+        {
+            "name": "mesh_75",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_69.ply",
+            "material": "booksDictionaryMaterial"
+        },
+        {
+            "name": "mesh_76",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_70.ply",
+            "material": "booksDictionaryMaterial"
+        },
+        {
+            "name": "mesh_77",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_71.ply",
+            "material": "booksDictionaryMaterial"
+        },
+        {
+            "name": "mesh_78",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_72.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_79",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_73.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_80",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_74.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_81",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_75.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_82",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_76.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_83",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_77.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_84",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_78.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_85",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_79.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_86",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_80.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_87",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_81.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_88",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_82.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_89",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_83.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_90",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_84.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_91",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_85.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_92",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_86.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_93",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_87.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_94",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_88.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_95",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_89.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_96",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_90.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_97",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_91.ply",
+            "material": "roughAlu"
+        },
+        {
+            "name": "mesh_98",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_92.ply",
+            "material": "blackFinished"
+        },
+        {
+            "name": "mesh_99",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_93.ply",
+            "material": "blackFinished"
+        },
+        {
+            "name": "mesh_100",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_94.ply",
+            "material": "blackFinished"
+        },
+        {
+            "name": "mesh_101",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_95.ply",
+            "material": "blackFinished"
+        },
+        {
+            "name": "mesh_102",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_96.ply",
+            "material": "roughAlu"
+        },
+        {
+            "name": "mesh_103",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_97.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_104",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_98.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_105",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_99.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_106",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_100.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_107",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_101.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_108",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_102.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_109",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_103.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_110",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_104.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_111",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_105.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_112",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_106.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_113",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_107.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_114",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_108.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_115",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_109.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_116",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_110.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_117",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_111.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_118",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_112.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_119",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_113.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_120",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_114.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_121",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_115.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_122",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_116.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_123",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_117.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_124",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_118.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_125",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_119.ply",
+            "material": "silver"
+        },
+        {
+            "name": "mesh_126",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_120.ply",
+            "material": "silver"
+        },
+        {
+            "name": "mesh_127",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_121.ply",
+            "material": "polishedChromium"
+        },
+        {
+            "name": "mesh_128",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_122.ply",
+            "material": "silver"
+        },
+        {
+            "name": "mesh_129",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_123.ply",
+            "material": "silver"
+        },
+        {
+            "name": "mesh_130",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_124.ply",
+            "material": "silver"
+        },
+        {
+            "name": "mesh_131",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_125.ply",
+            "material": "silver"
+        },
+        {
+            "name": "mesh_132",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_126.ply",
+            "material": "gold"
+        },
+        {
+            "name": "mesh_133",
+            "type": "ply",
+            "relativePath": "data/meshes/trophyCup1.ply",
+            "material": "silver"
+        },
+        {
+            "name": "mesh_134",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_127.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_135",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_128.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_136",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_129.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_137",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_130.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_138",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_131.ply",
+            "material": "whiteDiff"
+        },
+        {
+            "name": "mesh_139",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_132.ply",
+            "material": "whiteDiff"
+        },
+        {
+            "name": "mesh_140",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_133.ply",
+            "material": "whiteDiff"
+        },
+        {
+            "name": "mesh_141",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_134.ply",
+            "material": "whiteDiff"
+        },
+        {
+            "name": "mesh_142",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_135.ply",
+            "material": "whiteDiff"
+        },
+        {
+            "name": "mesh_143",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_136.ply",
+            "material": "wallpaperMaterial"
+        },
+        {
+            "name": "mesh_144",
+            "type": "ply",
+            "relativePath": "data/meshes/wallFixed.ply",
+            "material": "wallpaperMaterial"
+        },
+        {
+            "name": "mesh_145",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_137.ply",
+            "material": "brownDiff"
+        },
+        {
+            "name": "mesh_146",
+            "type": "ply",
+            "relativePath": "data/meshes/mirrorFrame.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_147",
+            "type": "ply",
+            "relativePath": "data/meshes/mirror.ply",
+            "material": "mirrorMaterial"
+        },
+        {
+            "name": "mesh_148",
+            "type": "ply",
+            "relativePath": "data/meshes/largePicFrame.ply",
+            "material": "furnitureMaterial"
+        },
+        {
+            "name": "mesh_149",
+            "type": "ply",
+            "relativePath": "data/meshes/largePic.ply",
+            "material": "largePicMaterial"
+        },
+        {
+            "name": "mesh_150",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_138.ply",
+            "material": "roughAlu"
+        },
+        {
+            "name": "mesh_151",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_139.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_152",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_140.ply",
+            "material": "roughAlu"
+        },
+        {
+            "name": "mesh_153",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_141.ply",
+            "material": "polishedChromium"
+        },
+        {
+            "name": "mesh_154",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_142.ply",
+            "material": "polishedChromium"
+        },
+        {
+            "name": "mesh_155",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_143.ply",
+            "material": "roughAlu"
+        },
+        {
+            "name": "mesh_156",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_144.ply",
+            "material": "polishedChromium"
+        },
+        {
+            "name": "mesh_157",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_145.ply",
+            "material": "polishedChromium"
+        },
+        {
+            "name": "mesh_158",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_146.ply",
+            "material": "polishedChromium"
+        },
+        {
+            "name": "mesh_159",
+            "type": "ply",
+            "relativePath": "data/meshes/archinterior04_147.ply",
+            "material": "polishedChromium"
+        },
+        {
+            "name": "mesh_160",
+            "type": "ply",
+            "relativePath": "data/meshes/teapot.ply",
+            "material": "ceramics"
+        },
+        {
+            "name": "mesh_161",
+            "type": "ply",
+            "relativePath": "data/meshes/windows.ply",
+            "material": "glass"
+        }
+    ]
+}

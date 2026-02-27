@@ -1,0 +1,294 @@
+{
+  "materials": [
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "diffuseTransmittance": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "thin": false,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "name": "Dots Stroke"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 0.0,
+      "anisotropic": 0.0,
+      "diffuseTransmittance": 0.0,
+      "IOR": 1.9065217971801758,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 1.0,
+      "thin": false,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "name": "Glass"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "diffuseTransmittance": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "thin": false,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          10000.0,
+          10000.0,
+          10000.0
+        ]
+      },
+      "name": "Light"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "diffuseTransmittance": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "thin": false,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "name": "Material"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "roughness": 0.0,
+      "anisotropic": 0.0,
+      "diffuseTransmittance": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 1.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "thin": false,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "name": "Mirror"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          0.12787051498889923,
+          0.20382660627365112,
+          0.23698945343494415
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "diffuseTransmittance": 0.0,
+      "IOR": 1.0478261709213257,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "thin": false,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "name": "WallBack"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          0.02351568266749382,
+          0.14936763048171997,
+          0.3235570788383484
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "diffuseTransmittance": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "thin": false,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "name": "WallLeft"
+    },
+    {
+      "type": "generic",
+      "baseColor": {
+        "type": "rgb",
+        "value": [
+          0.7123526930809021,
+          0.44743573665618896,
+          0.12592193484306335
+        ]
+      },
+      "roughness": 1.0,
+      "anisotropic": 0.0,
+      "diffuseTransmittance": 0.0,
+      "IOR": 1.4500000476837158,
+      "metallic": 0.0,
+      "specularTintStrength": 0.0,
+      "specularTransmittance": 0.0,
+      "thin": false,
+      "emission": {
+        "type": "rgb",
+        "value": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "name": "WallRight"
+    }
+  ],
+  "transforms": [
+    {
+      "name": "camera",
+      "position": [
+        -0.0057766977697610855,
+        0.7719067931175232,
+        -3.7321112155914307
+      ],
+      "rotation": [
+        0.0006445422601473183,
+        180.15000077257042,
+        5.491784483615955e-06
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "cameras": [
+    {
+      "fov": 30.2191523188336,
+      "transform": "camera",
+      "name": "default",
+      "type": "perspective"
+    }
+  ],
+  "objects": [
+    {
+      "name": "Box",
+      "type": "ply",
+      "material": "WallBack",
+      "relativePath": "Meshes/Box.0.ply"
+    },
+    {
+      "name": "Box",
+      "type": "ply",
+      "material": "WallLeft",
+      "relativePath": "Meshes/Box.1.ply"
+    },
+    {
+      "name": "Box",
+      "type": "ply",
+      "material": "WallRight",
+      "relativePath": "Meshes/Box.2.ply"
+    },
+    {
+      "name": "Light",
+      "type": "ply",
+      "material": "Light",
+      "relativePath": "Meshes/Light.0.ply"
+    },
+    {
+      "name": "Sphere",
+      "type": "ply",
+      "material": "Mirror",
+      "relativePath": "Meshes/Sphere.0.ply"
+    },
+    {
+      "name": "Sphere.001",
+      "type": "ply",
+      "material": "Glass",
+      "relativePath": "Meshes/Sphere.001.0.ply"
+    }
+  ]
+}

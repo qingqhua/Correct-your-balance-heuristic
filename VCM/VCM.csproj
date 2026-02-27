@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<ItemGroup>
+		<PackageReference Include="Extreme.Numerics" Version="8.1.21" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\SeeSharp\SeeSharp.csproj" />
+	</ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>

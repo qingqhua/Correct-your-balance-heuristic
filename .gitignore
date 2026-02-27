@@ -1,0 +1,14 @@
+obj
+bin
+Results
+.vs
+.vscode
+.idea
+*.user
+*.exr
+*.html
+*.pdf
+
+# Profiler output
+*.nettrace
+*.speedscope.json
